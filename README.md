@@ -1,6 +1,11 @@
 # Hi, I'm Deniz 👋
 
-I’m a biomedical engineering student at UCL with a strong foundation in software engineering, human-machine interfaces, and predictive analytics. I specialize in integrating data science and machine learning into healthcare solutions to drive real-world impact. Previously, I served as president of the UCL Medical Physics and Biomedical Engineering Society, where I fostered collaboration among emerging engineers.
+I’m a master's student in biomedical engineering at UCL with a passion for leveraging software engineering, human-machine interfaces, and predictive analytics to create transformative healthcare solutions. My work focuses on the integration of data science and machine learning into medical research to drive real-world impact.
+
+🔍 **Current Projects**
+
+- **Deep Learning for Medical Imaging:** Developing a semi-supervised deep learning model to segment anatomical regions of interest in T2-weighted MR images of the pelvis.
+- **Web-Based ML Integration:** Enhancing my fullstack development skills to bring machine learning models to life as interactive web applications.
 
 To learn more about what I do, check out my pinned repositories and [my portfolio.](https://d-eniz.github.io/)
 
