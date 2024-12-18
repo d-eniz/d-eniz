@@ -4,4 +4,4 @@ I’m a biomedical engineering student at UCL with a strong foundation in softwa
 
 To learn more about what I do, check out my pinned repositories and [my portfolio.](https://d-eniz.github.io/)
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,cmake,opencv,css,js,ts,vite,matlab,py,pytorch,sklearn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,cmake,opencv,css,js,ts,vite,flask,react,matlab,py,pytorch,sklearn,tensorflow)](https://skillicons.dev)
