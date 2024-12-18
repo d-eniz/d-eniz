@@ -8,6 +8,7 @@ I’m a master's student in biomedical engineering at UCL with a passion for lev
 - **Web-Based ML Integration:** Enhancing my fullstack development skills to bring machine learning models to life as interactive web applications.
 
 🌐 **Explore My Work**
+
 Check out my pinned repositories and [my portfolio.](https://d-eniz.github.io/)
 
 [![My Skills](https://skillicons.dev/icons?i=css,js,ts,vite,react,flask,py,sklearn,pytorch,tensorflow,matlab)](https://skillicons.dev)
