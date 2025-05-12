@@ -1,5 +1,10 @@
 import json
 import urllib.request
+import os
+
+script_dir = os.path.dirname(__file__)
+output_path = os.path.join(script_dir, "download-badge.json")
+
 
 STATS_URL = "https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json"
 PLUGIN_ID = "jupymd"
@@ -13,8 +18,8 @@ badge = {
     "schemaVersion": 1,
     "label": "downloads",
     "message": str(downloads),
-    "color": "573E7A"
+    "color": "573E7A",
 }
 
-with open("badges/download-badge.json", "w") as f:
+with open(output_path, "w") as f:
     json.dump(badge, f)
